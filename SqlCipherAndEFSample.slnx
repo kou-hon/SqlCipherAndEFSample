@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EFInfrastructure/EFInfrastructure.csproj" />
+  <Project Path="SqlCipherAndEFSample/SqlCipherAndEFSample.csproj" />
+</Solution>
